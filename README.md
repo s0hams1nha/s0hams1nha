@@ -31,17 +31,18 @@ I'm a passionate **Computer Science undergrad** at VIT Vellore (Class of 2026), 
 
 ## 🧠 Highlight Projects
 
-### 🄤 [ASL Alphabet Interpreter](https://github.com/s0hams1nha/ASL_2_Eng)
-
-> Real-time American Sign Language interpreter using **MediaPipe** and **OpenCV**.
-> 🌟 Top 8/100+ at a national hackathon
-> 🖐️ Hand tracking + live alphabet recognition with \~90% accuracy
 
 ### 📈 [Sugar Price Prediction (LSTM)](https://github.com/s0hams1nha/Thoucentric)
 
 > Built during my internship at **Thoucentric**
 > 🧪 Time series prediction using **TensorFlow LSTM**
 > 🚀 Achieved \~95% accuracy, automated data handling with PyMongo
+
+### 🄤 [ASL Alphabet Interpreter](https://github.com/s0hams1nha/ASL_2_Eng)
+
+> Real-time American Sign Language interpreter using **MediaPipe** and **OpenCV**.
+> 🌟 Top 8/100+ at a national hackathon
+> 🖐️ Hand tracking + live alphabet recognition with \~90% accuracy
 
 ---
 
